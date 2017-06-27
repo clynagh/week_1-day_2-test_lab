@@ -55,3 +55,46 @@ case num
     return "fail"
   end
 end
+
+#Further Work
+
+def volume_of_cube(side)
+  return side ** 3
+end
+
+def volume_of_sphere(rad)
+  return ((4/3.0)*(22/7.0)*(rad**3)).round(2)
+end
+
+def fahrenheit_to_celsius(far)
+  return ((far - 32.0)*(5/9.0)).round(2)
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
